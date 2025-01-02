@@ -137,8 +137,8 @@ span {
 
 .home-img img:hover {
   box-shadow: 0 0 25px var(--main-color),
-    0 0 50px var(--main-color),
-    0 0 100px var(--main-color);
+              0 0 50px var(--main-color),
+              0 0 100px var(--main-color);
 }
 
 .home-content p {
@@ -198,10 +198,10 @@ span {
 }
 
 .btn-group a:nth-of-type(2) {
-  box-shadow: 0 0 25px transparent;
   background-color: black;
   border: 2px solid var(--main-color);
   color: var(--main-color);
+  box-shadow:0 0 25px transparent;
 }
 
 .btn-group a:nth-of-type(2):hover {
@@ -220,7 +220,7 @@ span {
 }
 
 .text-animation span::before {
-  content: "Web Developer";
+  content: "Software Engineer";
   color: var(--main-color);
   animation: words 20s infinite;
 }
@@ -244,19 +244,19 @@ span {
 
 @keyframes words {
   0%, 20% {
-    content: "Frontend Designer";
+    content: "Full Stack Developer";
   }
   21%, 40% {
-    content: "Web Designer";
+    content: "AI Engineer Designer";
   }
   41%, 60% {
-    content: "UI / UX Designer";
+    content: "UI / UX Developer";
   }
   61%, 80% {
-    content: "Web Developer";
+    content: "Backend Developer";
   }
   81%, 100% {
-    content: "Software Engineer";
+    content: "Frontend Developer";
   }
 }
 
@@ -386,7 +386,7 @@ span {
 }
 
 .projects h2 {
-  margin-bottom: 5rem;
+  margin-bottom: 2rem;
   color: white;
 }
 
@@ -395,6 +395,10 @@ span {
   grid-template-columns:repeat(2,1fr);
   align-items:center;
   gap:2.5rem;
+}
+
+.projects-container a{
+  color:black;
 }
 
 .project-box {
@@ -420,25 +424,27 @@ span {
   max-height: 200px;
   justify-content: left;
   align-items: baseline;
-  padding:5rem 5rem;
+  padding:3rem 3rem;
 }
 
 .project-info h4 {
-  font-size: 3rem;
+  font-size: 2.4rem;
   font-weight: 800;
-  line-height: 2;
+  line-height: 1;
+  margin-bottom:2.2rem;
 }
 
 .project-info p {
-  font-size: 1.6rem;
+  font-size: 1.8rem;
   font-weight: 600;
   max-height: 100px;
-  line-height: 1.7;
+  line-height: 1.6;
   margin: auto;
 }
 
 .internships {
   background: var(--second-bg-color);
+  padding-bottom: 15rem;
 }
 
 .internships-box {
@@ -487,7 +493,7 @@ span {
 
 .internship-item:hover {
   border: 3px solid var(--main-color);
-  transform: translateY(-10px)scale(1.08);
+  transform: translateY(-10px)scale(1.03);
   box-shadow: 0 0 50px var(--main-color);
 }
 
@@ -496,7 +502,11 @@ span {
 }
 
 .internship-item p {
-  font-size: 1.3rem;
+  font-size: 2rem;
+}
+
+#star{
+  color:gold;
 }
 
 .contact {
@@ -614,7 +624,7 @@ span {
   .projects-container {
     padding-bottom: 7rem;
     grid-template-columns: repeat(2, 1fr);
-    margin: 0.5rem;
+    margin: 0 5rem;
   }
 }
 
@@ -674,6 +684,11 @@ span {
     width: 50%;
     padding: 1rem 3%;
     background: black;
+    backdrop-filter:blur(20px);
+    border-bottom-left-radius:2rem;
+    border-left: 2px solid var(--main-color);
+    border-bottom: 2px solid var(--main-color);
+    display:none;    
   }
 
   .navbar.active {
@@ -683,7 +698,7 @@ span {
   .navbar a {
     display: block;
     font-size: 2rem;
-    margin: 3rem;
+    margin: 3rem 0;
     color: white;
   }
 
@@ -701,6 +716,11 @@ span {
     margin-top: 3rem;
   }
 
+  .home-content p{
+    max-width:600px;
+    margin:0 auto;
+  }
+
   .home-img img {
     width: 56vw;
   }
@@ -712,17 +732,5 @@ span {
   .services-container {
     grid-template-columns: repeat(1, 1fr);
   }
-  /*
-  .projects{
-    font-size:10px;
-    overflow:hidden;
-  }
-  .project-info{
-    padding-bottom:50%;
-    margin-bottom:30%;
-  }*/
-  .projects h4{
-    font-size:1.5rem;
-  }
-  project
+  
 }
