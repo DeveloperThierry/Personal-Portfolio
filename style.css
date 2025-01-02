@@ -380,24 +380,24 @@ span {
   width: 50px;
 }
 
-.skills {
+.projects {
   background: var(--bg-color);
   color:black;
 }
 
-.skills h2 {
+.projects h2 {
   margin-bottom: 5rem;
   color: white;
 }
 
-.skills-container{
+.projects-container{
   display:grid;
   grid-template-columns:repeat(2,1fr);
   align-items:center;
   gap:2.5rem;
 }
 
-.skill-box {
+.project-box {
   background-color: var(--main-color);
   height: 300px;
   border-radius: 3rem;
@@ -406,14 +406,14 @@ span {
   transition: 0.4s ease-in-out;
 }
 
-.skill-box:hover {
+.project-box:hover {
   background: #B59410;
   color: black;
   border: 5px solid var(--main-color);
   transform: scale(1.03);
 }
 
-.skill-box .skill-info {
+.project-box .project-info {
   display: flex;
   flex-direction: column;
   text-align: left;
@@ -423,13 +423,13 @@ span {
   padding:5rem 5rem;
 }
 
-.skill-info h4 {
+.project-info h4 {
   font-size: 3rem;
   font-weight: 800;
   line-height: 2;
 }
 
-.skill-info p {
+.project-info p {
   font-size: 1.6rem;
   font-weight: 600;
   max-height: 100px;
@@ -611,7 +611,7 @@ span {
     font-size: 55%
   }
 
-  .skills-container {
+  .projects-container {
     padding-bottom: 7rem;
     grid-template-columns: repeat(2, 1fr);
     margin: 0.5rem;
@@ -713,15 +713,16 @@ span {
     grid-template-columns: repeat(1, 1fr);
   }
   /*
-  .skills{
+  .projects{
     font-size:10px;
     overflow:hidden;
   }
-  .skill-info{
+  .project-info{
     padding-bottom:50%;
     margin-bottom:30%;
   }*/
-  .skills h4{
+  .projects h4{
     font-size:1.5rem;
   }
+  project
 }
