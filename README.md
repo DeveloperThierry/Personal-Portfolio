@@ -44,4 +44,4 @@ This website is built with the **mobile-first approach**, ensuring that the user
 - **CSS3**: Styling and layout using modern CSS techniques like Flexbox and Grid. It also includes animations using `@keyframes` for smooth transitions.
 - **JavaScript**: Adds interactivity, form validation, and dynamic content to enhance the user experience. 
 - **Media Queries**: Ensures responsiveness for various devices (smartphones, tablets, desktops).
-- **Font Awesome**: For incorporating various icons (social media, project links, etc.).
+- **Font Awesome**: For incorporating various icons (social media, project links, etc.)
