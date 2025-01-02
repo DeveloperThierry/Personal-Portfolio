@@ -10,7 +10,6 @@ Welcome to my **Responsive Personal Portfolio Website**! This portfolio is a ref
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
-- [Contact](#contact)
 
 ---
 
