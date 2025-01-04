@@ -1,46 +1,82 @@
-# **Responsive Personal Portfolio Website**
+# 🙋‍♂️ **Hi, I'm Thierry Laguerre!** 👋
 
-Welcome to my **Responsive Personal Portfolio Website**! This portfolio is a reflection of my skills and creativity, showcasing my ability to build dynamic, user-friendly web applications. It is built using **HTML**, **CSS**, and **JavaScript**, and has been designed to be fully responsive across different devices, ensuring an optimal viewing experience for all users.
+Welcome to my personal website! 🎉  
+Here, you’ll find everything about me — from my educational background 🎓 to my professional experience 💼, exciting projects 🛠️, and much more. Let’s dive in! 🌟
 
----
+## 🏫 **Education**  
+I’m passionate about computer science, and I’ve worked hard to hone my skills. Here's a peek into my academic journey:
 
-## **Table of Contents**
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+- **Florida International University Honors College**, Miami, FL  
+  - **Bachelor of Arts in Computer Science** (4.0 GPA)  
+  - Expected Graduation: April 2026  
+  - Relevant Coursework: Data Structures, Algorithms, Advanced Programming
 
----
+- **Miami Dade Honors College**, Miami, FL  
+  - **Associate of Arts in Computer Science** (4.0 GPA)  
+  - August 2022 – April 2024  
 
-## **Project Overview**
+## 💼 **Experience**  
+I've had the pleasure of contributing to cutting-edge projects and gaining real-world experience in software engineering. Here's a snapshot of my professional journey:
 
-This portfolio website serves as an online presence to showcase my web development projects, skills, and experience. The site highlights the following key areas:
-- **Home**: A brief introduction to who I am, including my name, profession, and a professional photograph.
-- **About Me**: A section detailing my background, expertise, and a deeper dive into my personal and professional journey.
-- **Projects**: A portfolio of my best work, complete with descriptions, technologies used, and links to live demos or repositories.
-- **Skills**: A list of my technical skills in web development, along with proficiency indicators.
-- **Contact**: A form to allow visitors to reach out to me directly.
+### **Software Engineer | MyBonum**, Miami, FL  
+*September 2024 – Present*  
+- Engineered and optimized a high-performance web platform serving 75,000+ daily active users, maintaining 99.9% uptime and enhancing user engagement.
+- Designed and implemented reusable front-end components, accelerating feature delivery timelines by 30%.
+- Standardized UI elements across the platform, reducing visual inconsistencies by 10% and improving the overall user experience.
+- Led performance optimizations, improving page load speeds by 20% and reducing server response times by 15%.
 
-This website is built with the **mobile-first approach**, ensuring that the user interface (UI) is seamlessly responsive across devices of all sizes (smartphones, tablets, desktops). 
+### **Software Engineer Intern | Food & Drug Administration**, Rockville, MD  
+*June 2023 – August 2023*  
+- Strengthened database security by integrating Microsoft Office tools, resulting in a 30% reduction in privacy risks and increased data protection.
+- Developed dynamic data dashboards using Power BI, improving decision-making speed by 10% and enhancing data accessibility for stakeholders.
+- Optimized search and authorization processes, cutting data retrieval times by 50% and improving system efficiency.
 
----
+### **Software Engineering Intern | Miami Ed Tech**, Miami, FL  
+*July 2021 – August 2021*  
+- Designed and implemented interactive quizzes that boosted user engagement by 10%, improving retention on educational platforms.
+- Applied SEO strategies, resulting in a 10% increase in website traffic and enhanced content visibility.
+- Led usability testing and user feedback sessions, optimizing course navigation and improving user satisfaction by 25%.
 
-## **Features**
-- **Responsive Design**: The layout adapts to any screen size, making it user-friendly across all devices.
-- **Smooth Animations**: Custom JavaScript animations and transitions to enhance the user experience.
-- **Interactive Contact Form**: A simple and functional contact form that allows visitors to get in touch directly from the website.
-- **Portfolio Showcase**: An interactive, visually appealing section for displaying various web development projects.
-- **Skill Charts**: Dynamic visual representations of my technical expertise in the form of skill bars and charts.
-- **SEO Optimized**: Basic search engine optimization to improve discoverability.
-- **Lightweight and Fast**: Optimized for quick load times and smooth navigation.
+## 🛠️ **Projects**  
+I’m passionate about building innovative solutions. Here are a few projects I’ve worked on:
 
----
+### **Real-Time Crypto Dashboard | Online Course Project | GitFront**  
+*August 2024 – November 2024*  
+- Built a real-time cryptocurrency dashboard using React, enhancing the data refresh rate by 15% and improving responsiveness.
+- Implemented React Router for seamless page transitions, reducing page load times by 20% and enhancing user experience.
+- Optimized data fetching with Axios, ensuring 99% accuracy in real-time data updates and increasing system reliability.
 
-## **Technologies Used**
+### **AI-Powered Customer Service App | HeadStarter AI Project | GitFront**  
+*July 2024 – September 2024*  
+- Developed a responsive customer service application using JavaScript and Next.js, increasing support access by 40% and reducing response times.
+- Integrated OpenRouter API to improve query handling, cutting response times by 30% and enhancing the overall support process.
+- Designed an intuitive UI with Material UI, reducing navigation time by 25% and improving user interactions.
 
-- **HTML5**: Structure of the website, using semantic tags for better readability and accessibility.
-- **CSS3**: Styling and layout using modern CSS techniques like Flexbox and Grid. It also includes animations using `@keyframes` for smooth transitions.
-- **JavaScript**: Adds interactivity, form validation, and dynamic content to enhance the user experience. 
-- **Media Queries**: Ensures responsiveness for various devices (smartphones, tablets, desktops).
-- **Font Awesome**: For incorporating various icons (social media, project links, etc.)
+### **Card Funding Dashboard | CodePath Open Source Project | GitFront**  
+*July 2024 – August 2024*  
+- Built a dashboard to track underfunded/overfunded card displays, improving decision-making accuracy by 95% and optimizing resource allocation.
+- Developed JavaScript functions for donor data tracking, ensuring 99% accuracy in under 3 seconds.
+- Enhanced the UX/UI for accessibility, leading to a significant improvement in user satisfaction and engagement.
+
+## 🧑‍💻 **Skills**  
+- **Programming Languages:** Proficient in Python (2 years), Java (1 year), HTML (4 years), CSS (4 years), Intermediate JavaScript (2 years) 💻  
+- **Software & Tools:** React, NodeJS, NextJS, Flask, Bootstrap, REST API, Material UI, Google Cloud, Firebase, AutoCAD, Stripe CLI, Azure, JIRA, SQL, jQuery ⚙️  
+- **Certifications:** Microsoft Azure AI, Google Technical Support Fundamentals 📜
+
+## 🚀 **Let’s Connect!**  
+I’d love to collaborate, learn, and grow together! Feel free to reach out if you’d like to:  
+- **Collaborate on a project** 🤝  
+- **Chat about technology** 💬  
+- **Connect professionally** 💼  
+- 📧 **Email:** [thierry.laguerre001@mymdc.net](mailto:thierry.laguerre001@mymdc.net)  
+- 🔗 **LinkedIn:** [linkedin.com/in/thierrylaguerre](https://linkedin.com/in/thierrylaguerre)  
+- 🌐 **Personal Website:** [Your Website URL]
+
+## 🎯 **Activities**  
+As a leader, I love helping others grow and work on innovative solutions:
+
+### **Technical Lead | Code Crunch**, Miami, FL  
+*December 2024 – Present*  
+- Led the development of a full-stack web application, improving project delivery time by 20-40% through effective team coordination and streamlined processes.
+- Resolved 5+ technical challenges across HTML, CSS, JavaScript, and version control, significantly reducing issue resolution time by 30% and boosting team productivity.
+- Mentored junior developers, fostering best practices in coding standards, resulting in a 25% improvement in code quality and maintainability.
