@@ -1,4 +1,4 @@
-# 🙋‍♂️ **Hi, I'm Thierry Laguerre!** 👋
+# 🙋‍♂️ **Hi, I'm Thierry!** 👋
 
 Welcome to my personal website! 🎉  
 Here, you’ll find everything about me — from my educational background 🎓 to my professional experience 💼, exciting projects 🛠️, and much more. Let’s dive in! 🌟
