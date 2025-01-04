@@ -70,7 +70,7 @@ I’d love to collaborate, learn, and grow together! Feel free to reach out if y
 - **Connect professionally** 💼  
 - 📧 **Email:** [thierry.laguerre001@mymdc.net](mailto:thierry.laguerre001@mymdc.net)  
 - 🔗 **LinkedIn:** [linkedin.com/in/thierrylaguerre](https://linkedin.com/in/thierrylaguerre)  
-- 🌐 **Personal Website:** [Your Website URL]
+- 🌐 **Personal Website:** [View](https://portfolio-sandy-ten-84.vercel.app/)
 
 ## 🎯 **Activities**  
 As a leader, I love helping others grow and work on innovative solutions:
